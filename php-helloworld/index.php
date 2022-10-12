@@ -1,3 +1,3 @@
 <?php
-print "A change ist coming!"\n";
+print "A change ist coming!";
 ?>
